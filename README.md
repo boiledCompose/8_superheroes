@@ -1,4 +1,4 @@
-## Scaffold
+## [Scaffold](https://developer.android.com/jetpack/compose/layouts/material?hl=ko#scaffold) 
 
 `Scaffold` 컴포저블은 다양한 구성요소와 기타 화면 요소를 위한 슬롯을 제공한다.
 

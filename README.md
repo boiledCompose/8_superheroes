@@ -33,6 +33,7 @@ Scaffold(
     // Screen content
 }
 ```
+<br>
 
 ## 유용한 기능: 상태바 색상 바꾸기
 ```kotlin
